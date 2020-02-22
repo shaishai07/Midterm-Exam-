@@ -1,0 +1,86 @@
+.margin {
+    margin-top: 50px;
+}
+.head {
+    width: 75px;
+    height: 75px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    left: 45px;
+}
+.body {
+    width: 50px;
+    height: 70px;
+    background-color: black;
+    position: relative;
+    left: 57px;
+}
+.leftarm {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 125px;
+    left: 45px;
+    transform: rotate(60deg);
+}
+.leftarm1 {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 150px;
+    left: 40px;
+    transform: rotate(-25deg);
+}
+.rightarm {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 130px;
+    left: 110px;
+    transform: rotate(-30deg);
+}
+.rightarm1 {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 134px;
+    left: 131px;
+    transform: rotate(52deg);
+}
+.lefthita {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 190px;
+    left: 70px;
+}
+.lefthita1 {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 231px;
+    left: 70px;
+}
+.righthita {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 190px;
+    left: 100px;
+}
+.righthita1 {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 231px;
+    left: 100px;
+}
